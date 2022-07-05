@@ -40,7 +40,7 @@
 
 }
 
-@media only screen and (min-width: 480px)and(max-width:780px){
+@media only screen and (min-width: 300px)and(max-width:780px){
     .col-m-1 {width: 8.33%;}
     .col-m-2 {width: 16.66%;}
     .col-m-3 {width: 25%;}
